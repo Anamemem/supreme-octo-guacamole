@@ -1,0 +1,40 @@
+#image{
+    height:680px;
+    width: 100%;
+    background:
+    linear-gradient(rgba(0,0,0,0.6) 50%,transparent 50%) 58% 0/40% 100% ,
+    url(https://futurelabs.agency/images/closing-deals.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    color:#ffffff;
+    
+    }
+    .purples{
+        background-image: url(https://futurelabs.agency/images/adhesion.png);
+        height:680px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .purpl{
+        background-image: url(https://futurelabs.agency/images/3dpro.jpg);
+        height:680px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .purples1{
+        background-image: url(https://futurelabs.agency/images/formed.jpg);
+        height:680px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .purpl1{
+        background-image: url(https://futurelabs.agency/images/Technodombaiedit.png);
+        height:680px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }

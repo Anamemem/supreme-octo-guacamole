@@ -1,0 +1,29 @@
+#image{
+    height:680px;
+    width: 100%;
+    background:
+    linear-gradient(to bottom right,rgba(0,0,0,0.6) 50%,transparent 50%) 58% 0/40% 100% no-repeat,
+    linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.6)) 0 0/35% 100% no-repeat,
+    url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE6yVESCHIZf4-gueGVAquVFDKZtXNZROEjjgatQVLkBTdPImrHNbcH_scxIIqvg8avCsAjaxQ&s) center/cover no-repeat;
+    color:#ffffff;
+    
+    }
+    .far{
+        font-size: 17px;
+    }
+    .purple{
+        background-image: url(https://futurelabs.agency/images/future.jpg);
+        height:680px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .v{
+
+    }
+    .f{
+        font-size: 25px;
+    }
+    .vf{
+        margin-top: -370px;
+    }

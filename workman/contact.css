@@ -1,0 +1,18 @@
+#image{
+    height:680px;
+    width: 100%;
+    background:
+    
+    url(https://futurelabs.agency/images/bonny.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+    color: black;
+    
+    }
+    .das{
+        font-size: 20px
+    }
+    .bg-dangers{
+        background-color:  #4d0026; 
+    }

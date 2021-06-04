@@ -1,0 +1,179 @@
+
+#image{
+    height:680px;
+    width: 100%;
+    background:
+    linear-gradient(to bottom right,rgba(0,0,0,0.6) 50%,transparent 50%) 58% 0/40% 100% no-repeat,
+    linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.6)) 0 0/35% 100% no-repeat,
+    url(https://www.a2hosting.com/blog/content/uploads/2018/03/content-calendar.png) center/cover no-repeat;
+    color:#ffffff;
+    
+    }
+
+
+
+.btn{
+background-color: brown;
+}
+    
+
+   
+
+
+.slide{
+    width: 2000px;
+    background-color: rgb(16, 16, 17);
+    transform: skewy(322deg);
+    height: 2px;
+    
+}
+.sweet{
+    font-family: Helvetica Neue LT Pro;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+}
+.card{
+    height: 400px;
+    margin-bottom: 100px;
+}
+.bam{
+    height: 300px;
+    margin-top: 170px;
+}
+.bg{
+    background-color: rgb(124, 27, 124);
+}
+.sam{
+    font-size: 60px;
+    margin-bottom: 40px;
+}
+.sams{
+    font-size: 15px;
+}
+.btns{
+    width: 150px;
+    height: 50px;
+    background-color: transparent;
+    color: bisque;
+    
+    margin-top: 2rem;
+    border-color: white;
+    border: 4px solid;
+    border-radius: 10px;
+}
+li{
+    display: inline;
+}
+.bgs{
+    background-color:  #4d0026;
+    border-radius: 18px;
+    padding-bottom: 60px;
+    position: relative;;
+    top: 120px;
+    
+}
+.btn5{
+    background-color: #4d0026;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    border: #4d0026;
+}
+
+.bg-dangers{
+    background-color:  #4d0026; 
+}
+.den{
+    background-color:  #4d0026; 
+}
+.bg-darks{
+    height: 350px;
+    background-color: black;
+    background-size: cover;
+   
+}
+.text1{
+margin-top: 200px;
+color: blanchedalmond;
+font-size: 35px;
+font-family: Helvetica Neue LT Pro;
+font-style: normal;
+}
+.text2{
+font-size: 20px;
+color: blanchedalmond;
+font-size: 21px;
+}
+.o{
+    position: absolute;
+    width: 31.17px;
+    height: 30.73px;
+    
+    font-family: Product Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+    color: black;
+    /* identical to box height, or 113% */
+    
+    
+    color: #636262;
+    
+}
+.whatever{
+    ;
+}
+.h1{
+    font-size: 60px;
+}
+.p{
+    font-size: 30px;
+}
+.textd{
+   font-size: 50px;
+   color: white;
+   font-family: 'popkins';
+   
+}
+.der{
+    font-size: 20px;
+}
+.sax{
+margin-top: 200px;
+font-family: 'popkins';
+font-size: 50px;
+}
+.align{
+    font-size: 20px;
+}
+.sall{
+    background-color:  #4D0026;
+    margin-top: -66px;
+    margin-left: 265px;
+    border-radius: 1px;
+    color: white;
+}
+@media only screen 
+  and (min-device-width: 768px) 
+  and (max-device-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+.sall{
+    margin-left: 220px;
+}
+}
+
+.line{
+    width: 100px;
+    background-color: brown;
+    height: 3px;
+}
+.sad{
+    font-size: 17px;
+}

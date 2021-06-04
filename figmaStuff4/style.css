@@ -10,8 +10,7 @@
     font-family: Raleway;
     font-style: normal;
     font-weight: 500;
-    font-size: 1.5rem;
-    line-height: 28px;
+    font-size: 1rem;
     color: aliceblue;
     margin-top: 20px
 }
@@ -56,6 +55,9 @@
     height: 400px;
     background-size: contain;
     background-repeat: no-repeat;
+mix-blend-mode: luminosity;
+opacity: 0.85;
+
 }
 
 .white {
@@ -117,19 +119,18 @@ margin-top: -430px;
 
 
 #sectionOne2 {
-    background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620652665/futurelabs/Rectangle_8_dqymey.png");
+    background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("https://res.cloudinary.com/dekbvdqnb/image/upload/v1620314599/Rectangle_8_nm16hs.png");
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 750px;
-    margin-top: -130px;
-    
+    height: 700px;
+    margin-top: -130px;  
     
 }
 
 .purpl {
     background-image: url("https://res.cloudinary.com/not-set/image/upload/v1620656026/futurelabs/Group_5_ax0qnx.png");
     height: 568px;
-    margin-top: 75px;
+    margin-top: 120px;
     
 }
 
